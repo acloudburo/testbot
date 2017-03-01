@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>testbot</title>
+  <subtitle></subtitle>
+  <id>https://testbot.curation.space</id>
+  <link href="https://testbot.curation.space"/>
+  <link href="https://testbot.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name></name>
+  </author>
+</feed>
